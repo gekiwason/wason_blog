@@ -1,5 +1,5 @@
 baseurl = "https://naughty-newton-f0b7c0.netlify.app/"
-title = "@Gwa50nの銭湯coding日記 "
+title = "銭湯coding日記 "
 theme = "hugo-theme-cleanwhite"
 languageCode = "ja"
 # Enable comments by entering your Disqus shortname
@@ -14,7 +14,7 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/publicdomainq-0017340cln.jpg"
-  SEOTitle = " @Gwa50nの銭湯coding日記"
+  SEOTitle = " 銭湯coding日記"
 
   image_404 = "img/404-bg.jpg"
   title_404 = "Oops! :("
@@ -32,7 +32,7 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = "d2c83b69452a67ec36ee97a37c96745b"
 
   # Sidebar settings
-  sidebar_about_description = "ソフトウェアエンジニア, 銭湯coder, 法学徒(仮)"
+  sidebar_about_description = "ソフトウェアエンジニア, 銭湯プログラマー, 法学徒(仮)"
   #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
   sidebar_avatar = "img/avatar2.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
