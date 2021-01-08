@@ -5,7 +5,8 @@ description: ""
 excerpt: ""
 date: 2021-01-08T20:10:06.603Z
 author:     "wason"
-categories: []
+categories:
+  - 自己紹介
 tags:
   - 自己紹介
 ---
