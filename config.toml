@@ -1,5 +1,5 @@
 baseurl = "https://naughty-newton-f0b7c0.netlify.app/"
-title = "銭湯coding日記 "
+title = "湯けむりプログラミング日記 "
 theme = "hugo-theme-cleanwhite"
 languageCode = "ja"
 # Enable comments by entering your Disqus shortname
@@ -14,7 +14,7 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/publicdomainq-0017340cln.jpg"
-  SEOTitle = " 銭湯coding日記"
+  SEOTitle = " 湯けむりプログラミング日記"
 
   image_404 = "img/404-bg.jpg"
   title_404 = "Oops! :("
