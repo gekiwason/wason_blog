@@ -14,7 +14,9 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/publicdomainq-0017340cln.jpg"
-  SEOTitle = " 湯けむりプログラミング日記"
+  SEOTitle = " 湯けむりプログラミング日記  | @Gwa50n`s diary"
+  description = "温泉でひたすらコードを書き続ける文系大学生の日記"
+  keyword = "@Gwa50n, wason, 湯けむりプログラミング日記, 文系, 法学部, 温泉, 銭湯, @Gwa50n`s diary, エンジニア, インターン, 銭湯プログラマー"
 
   image_404 = "img/404-bg.jpg"
   title_404 = "Oops! :("
