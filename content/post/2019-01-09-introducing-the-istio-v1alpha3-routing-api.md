@@ -5,10 +5,8 @@ description: ""
 excerpt: ""
 date: 2021-01-08T20:10:06.603Z
 author:     "wason"
-categories:
-  - 自己紹介
-tags:
-  - 自己紹介
+categories: []
+tags: []
 ---
 ### 自己紹介
 　初めまして。[@Gwa50n](https://twitter.com/Gwa50n)です。法学部生です。エンジニアのインターンもしています。このブログでは技術的な学びとか趣味とかについて投稿していくつもりです。
