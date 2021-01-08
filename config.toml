@@ -8,7 +8,6 @@ googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = true
-custom_css = ["css/custom-font.css"]
 
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
@@ -28,9 +27,9 @@ home = ["HTML", "RSS", "Algolia"]
 
   # algolia site search
   algolia_search = true
-  algolia_appId = ""
-  algolia_indexName = ""
-  algolia_apiKey = ""
+  algolia_appId = "2YQTQNE51M"
+  algolia_indexName = "wason_blog"
+  algolia_apiKey = "d2c83b69452a67ec36ee97a37c96745b"
 
   # Sidebar settings
   sidebar_about_description = "ソフトウェアエンジニア, Lil_hotspring, 法学徒(仮)"
@@ -57,6 +56,7 @@ home = ["HTML", "RSS", "Algolia"]
   about_me = true
 
   # Include any custom CSS and/or JS files, url or relative to /static folder
+  custom_css = ["css/custom-font.css"]
   #custom_css = ["css/lightbox.css", "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css", "css/main.css"]
   #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
 
