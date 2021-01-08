@@ -8,6 +8,7 @@ googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = true
+custom_css = ["css/custom-font.css"]
 
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
@@ -48,7 +49,7 @@ home = ["HTML", "RSS", "Algolia"]
   disqus_site = ""
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
-  reward = true 
+  reward = false
   # reward_guide = "如果这篇文章对你有用,请随意打赏" 
 
   friends = false
@@ -119,3 +120,5 @@ params = ["categories", "tags"]
     startLevel = 1
   [markup.highlight]
     style = "dracula"
+  [markup.goldmark.renderer]
+    unsafe = true
