@@ -19,7 +19,7 @@ collections:
     # コレクションのフィールド
     fields:
       - {label: "タイトル", name: "title", widget: "string"}
-      - {label: "サブタイトル", name: "subtitle", widget: "string" required: false}
+      - {label: "サブタイトル", name: "subtitle", widget: "string", required: false}
       - {label: "説明", name: "description", widget: "text", required: false} 
       - {label: "記事概要", name: "excerpt", widget: "text", required: false}
       - {label: "日付", name: "date", widget: "datetime"}
