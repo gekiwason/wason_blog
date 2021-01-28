@@ -1,4 +1,4 @@
-baseurl = "https://naughty-newton-f0b7c0.netlify.app/"
+baseurl = "https://wason.netlify.app/"
 title = "湯けむりプログラミング日記 "
 theme = "hugo-theme-cleanwhite"
 languageCode = "ja"
