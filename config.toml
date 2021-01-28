@@ -1,4 +1,5 @@
 baseurl = "https://wason.netlify.app/"
+relativeurls = true
 title = "湯けむりプログラミング日記 "
 theme = "hugo-theme-cleanwhite"
 languageCode = "ja"
