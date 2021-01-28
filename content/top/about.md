@@ -1,7 +1,7 @@
 ![](/img/avatar2.png) 
 ### Biography
 
-都内文系大学生 [@Gwa50n](https://twitter.com/Gwa50n)。だいたい銭湯にいる。
+銭湯とプログラミングが好きな法学部の学生です。 [@Gwa50n](https://twitter.com/Gwa50n)
 
 ### Skills
 
